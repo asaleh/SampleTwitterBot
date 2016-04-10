@@ -3,8 +3,8 @@ not be used as a tool for spamming. There are no guarantees of any kind for the 
 using this software
 
  It was built using eclipse and IntelliJ IDEA, you need java SDK 1.7 to be able
- to compile it. For the ease of use the twitter4j libraries was also added to the libs
- folder (it can be downloaded from http://twitter4j.org/en/index.html).
+ to compile it. twitter4j libraries needs to be downloaded and addedto the project
+ (it can be downloaded from http://twitter4j.org/en/index.html).
 
  TO DOs (for @LeSeverus)
  0- Add user keys for the account to be used for tweeting ( not dynamic signing is implemented)
@@ -12,5 +12,3 @@ using this software
  2- Implement a way to get the reply that you will use (Main.java)
  3- Implement some way to construct a dynamic tweet for testing (TwitterProcessor.java)
  4- Implement the replying technique (TwitterProcessor.java)
-
- Good Luck!
